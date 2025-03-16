@@ -1,6 +1,3 @@
-# strategies/guillotine_strategy.py
-
-import math
 
 class StrategyGuillotine:
     """
